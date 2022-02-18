@@ -9,5 +9,5 @@ Various types of visualizations used in Matplotlib library are scatter chart, ba
 Data visualization is the graphical representation of information and data. <br>
 Data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. <br>
 
-Here, I have used python's matplotlib library with numpy library & various charts of this library with syntax are explained using different examples.
+Here, I have used python's matplotlib library with numpy library & various charts of this library with syntax are explained using different examples with the ouput.
 Also I had tried to explain the main parameters of different charts. 
