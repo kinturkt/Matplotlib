@@ -1,6 +1,6 @@
 # Matplotlib
 
-<b> Matplotlib is a python library used for creating interactive visualizations. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK </b> <br>
+<b> Matplotlib is a python library used for creating interactive visualizations. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. </b> <br>
 
 By visualizing the data, users can easily read the data which is presented. <br>
 
